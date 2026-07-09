@@ -1,2 +1,2 @@
-# Claude_project
-用来储存Claude生成的项目
+# RehabilitationTraining_project
+该项目用于康复智能体开发demo展示
